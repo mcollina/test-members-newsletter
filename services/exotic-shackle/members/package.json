@@ -1,0 +1,5 @@
+{
+  "name": "db1",
+  "main": "./members.cjs",
+  "types": "./members.d.ts"
+}

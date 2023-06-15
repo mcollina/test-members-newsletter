@@ -1,0 +1,5 @@
+{
+  "name": "db2",
+  "main": "./newsletters.cjs",
+  "types": "./newsletters.d.ts"
+}
